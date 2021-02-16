@@ -12,5 +12,10 @@
 
 - **數據結構**
   1. [樹狀數組](http://htmlpreview.github.io?https://github.com/1am9trash/Algorithm/blob/main/%E6%95%B8%E6%93%9A%E7%B5%90%E6%A7%8B/%E6%A8%B9%E7%8B%80%E6%95%B8%E7%B5%84/%E6%A8%B9%E7%8B%80%E6%95%B8%E7%B5%84.html)
+     - [樹狀數組區間和code](./數據結構/樹狀數組/code/樹狀數組區間和.cpp)
+     - [樹狀數組區間極值code](./數據結構/樹狀數組/code/樹狀數組區間極值.cpp)
   2. [並查集與種類並查集](http://htmlpreview.github.io?https://github.com/1am9trash/Algorithm/blob/main/%E6%95%B8%E6%93%9A%E7%B5%90%E6%A7%8B/%E4%B8%A6%E6%9F%A5%E9%9B%86%E8%88%87%E7%A8%AE%E9%A1%9E%E4%B8%A6%E6%9F%A5%E9%9B%86/%E4%B8%A6%E6%9F%A5%E9%9B%86%E8%88%87%E7%A8%AE%E9%A1%9E%E4%B8%A6%E6%9F%A5%E9%9B%86.html)
+     - [並查集code](./數據結構/並查集與種類並查集/Code/並查集.cpp)
+     - [種類並查集code](./數據結構/並查集與種類並查集/Code/種類並查集.cpp)
   3. [線段樹](http://htmlpreview.github.io?https://github.com/1am9trash/Algorithm/blob/main/%E6%95%B8%E6%93%9A%E7%B5%90%E6%A7%8B/%E7%B7%9A%E6%AE%B5%E6%A8%B9/%E7%B7%9A%E6%AE%B5%E6%A8%B9.html)
+     - [線段樹code](./數據結構/線段樹/Code/線段樹.cpp)
