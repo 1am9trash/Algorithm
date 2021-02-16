@@ -9,7 +9,6 @@
   | 2021/02/14 | 數據結構 | 樹狀數組 |
   | 2021/02/15 | 數據結構 | 並查集與種類並查集 |
 
-
 - **數據結構**
   1. [樹狀數組](http://htmlpreview.github.io?https://github.com/1am9trash/Algorithm/blob/main/%E6%95%B8%E6%93%9A%E7%B5%90%E6%A7%8B/%E6%A8%B9%E7%8B%80%E6%95%B8%E7%B5%84/%E6%A8%B9%E7%8B%80%E6%95%B8%E7%B5%84.html)
   2. [並查集與種類並查集](http://htmlpreview.github.io?https://github.com/1am9trash/Algorithm/blob/main/%E6%95%B8%E6%93%9A%E7%B5%90%E6%A7%8B/%E4%B8%A6%E6%9F%A5%E9%9B%86%E8%88%87%E7%A8%AE%E9%A1%9E%E4%B8%A6%E6%9F%A5%E9%9B%86/%E4%B8%A6%E6%9F%A5%E9%9B%86%E8%88%87%E7%A8%AE%E9%A1%9E%E4%B8%A6%E6%9F%A5%E9%9B%86.html)
