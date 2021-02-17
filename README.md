@@ -9,6 +9,7 @@
   | 2021/02/14 | 數據結構 | 樹狀數組 |
   | 2021/02/15 | 數據結構 | 並查集與種類並查集 |
   | 2021/02/16 | 數據結構 | 線段樹 |
+  | 2021/02/17 | 其他    | 離散化 |
 
 - **數據結構**
   1. [樹狀數組](http://htmlpreview.github.io?https://github.com/1am9trash/Algorithm/blob/main/%E6%95%B8%E6%93%9A%E7%B5%90%E6%A7%8B/%E6%A8%B9%E7%8B%80%E6%95%B8%E7%B5%84/%E6%A8%B9%E7%8B%80%E6%95%B8%E7%B5%84.html)
@@ -19,3 +20,7 @@
      - [種類並查集code](https://github.com/1am9trash/Algorithm/blob/main/數據結構/並查集與種類並查集/code/種類並查集.cpp)
   3. [線段樹](http://htmlpreview.github.io?https://github.com/1am9trash/Algorithm/blob/main/%E6%95%B8%E6%93%9A%E7%B5%90%E6%A7%8B/%E7%B7%9A%E6%AE%B5%E6%A8%B9/%E7%B7%9A%E6%AE%B5%E6%A8%B9.html)
      - [線段樹code](https://github.com/1am9trash/Algorithm/blob/main/數據結構/線段樹/code/線段樹.cpp)
+
+- **其他**
+  1. [離散化](http://htmlpreview.github.io?https://github.com/1am9trash/Algorithm/blob/main/%E5%85%B6%E4%BB%96/%E9%9B%A2%E6%95%A3%E5%8C%96/%E9%9B%A2%E6%95%A3%E5%8C%96.html)
+     - [離散化code](https://github.com/1am9trash/Algorithm/blob/main/其他/離散化/code/離散化.cpp)
