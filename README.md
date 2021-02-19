@@ -25,7 +25,7 @@
   4. [st表](http://htmlpreview.github.io?https://github.com/1am9trash/Algorithm/blob/main/%E6%95%B8%E6%93%9A%E7%B5%90%E6%A7%8B/st%E8%A1%A8/st%E8%A1%A8.html)
      - [st表code](https://github.com/1am9trash/Algorithm/blob/main/數據結構/st表/code/st表.cpp)
   5. [分塊](http://htmlpreview.github.io?https://github.com/1am9trash/Algorithm/blob/main/%E6%95%B8%E6%93%9A%E7%B5%90%E6%A7%8B/%E5%88%86%E5%A1%8A/%E5%88%86%E5%A1%8A.html)
-     - [分塊（偽線段樹）](https://github.com/1am9trash/Algorithm/blob/main/數據結構/分塊/code/分塊偽線段樹.cpp)
+     - [分塊（偽線段樹）code](https://github.com/1am9trash/Algorithm/blob/main/數據結構/分塊/code/分塊偽線段樹.cpp)
 
 - **其他**
   1. [離散化](http://htmlpreview.github.io?https://github.com/1am9trash/Algorithm/blob/main/%E5%85%B6%E4%BB%96/%E9%9B%A2%E6%95%A3%E5%8C%96/%E9%9B%A2%E6%95%A3%E5%8C%96.html)
