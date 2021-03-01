@@ -12,6 +12,7 @@
   | 2021/02/17 | 其他    | 離散化 |
   | 2021/02/17 | 數據結構 | st表 |
   | 2021/02/19 | 數據結構 | 分塊 |
+  | 2021/03/01 | 分治    | 三分搜尋 |
 
 - **每個算法標題為該算法的筆記，下方的連結為模板code**
 - **數據結構**
@@ -28,6 +29,10 @@
   5. [分塊](http://htmlpreview.github.io?https://github.com/1am9trash/Algorithm/blob/main/%E6%95%B8%E6%93%9A%E7%B5%90%E6%A7%8B/%E5%88%86%E5%A1%8A/%E5%88%86%E5%A1%8A.html)
      - [分塊區間和（偽線段樹）](https://github.com/1am9trash/Algorithm/blob/main/數據結構/分塊/code/分塊偽線段樹.cpp)
 
+- **分治**
+  1. [三分搜尋](http://htmlpreview.github.io?https://github.com/1am9trash/Algorithm/blob/main/%E5%88%86%E6%B2%BB/%E4%B8%89%E5%88%86/%E4%B8%89%E5%88%86.html)
+     - [三分搜極值端點](https://github.com/1am9trash/Algorithm/blob/main/%E5%88%86%E6%B2%BB/%E4%B8%89%E5%88%86/code/%E4%B8%89%E5%88%86.cpp)
+  
 - **其他**
   1. [離散化](http://htmlpreview.github.io?https://github.com/1am9trash/Algorithm/blob/main/%E5%85%B6%E4%BB%96/%E9%9B%A2%E6%95%A3%E5%8C%96/%E9%9B%A2%E6%95%A3%E5%8C%96.html)
      - [離散化](https://github.com/1am9trash/Algorithm/blob/main/其他/離散化/code/離散化.cpp)
