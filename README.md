@@ -14,6 +14,7 @@
   | 2021/02/19 | 數據結構 | 分塊 |
   | 2021/03/01 | 分治    | 三分搜尋 |
   | 2021/03/06 | 數論    | 質數篩法 |
+  | 2021/03/08 | 數論    | 擴展歐幾里德與模逆元 |
 
 - **每個算法標題為該算法的筆記，下方的連結為模板code**
 - **數據結構**
@@ -34,6 +35,9 @@
   1. [質數篩法](http://htmlpreview.github.io?https://github.com/1am9trash/Algorithm/blob/main/%E6%95%B8%E8%AB%96/%E8%B3%AA%E6%95%B8%E7%AF%A9%E6%B3%95/%E8%B3%AA%E6%95%B8%E7%AF%A9%E6%B3%95.html)
      - [埃式篩法](https://github.com/1am9trash/Algorithm/blob/main/數論/質數篩法/code/埃式篩法.cpp)
      - [線性篩法](https://github.com/1am9trash/Algorithm/blob/main/數論/質數篩法/code/線性篩法.cpp)
+  2. [擴展歐幾里德與模逆元](http://htmlpreview.github.io?https://github.com/1am9trash/Algorithm/blob/main/%E6%95%B8%E8%AB%96/%E6%93%B4%E5%B1%95%E6%AD%90%E5%B9%BE%E9%87%8C%E5%BE%B7%E8%88%87%E6%A8%A1%E9%80%86%E5%85%83/%E6%93%B4%E5%B1%95%E6%AD%90%E5%B9%BE%E9%87%8C%E5%BE%B7%E8%88%87%E6%A8%A1%E9%80%86%E5%85%83.html)
+     - [擴展歐幾里德](https://github.com/1am9trash/Algorithm/blob/main/數論/擴展歐幾里德與模逆元/code/擴展歐幾里德.cpp)
+     - [模逆元](https://github.com/1am9trash/Algorithm/blob/main/數論/擴展歐幾里德與模逆元/code/模逆元.cpp)
 
 
 - **分治**
