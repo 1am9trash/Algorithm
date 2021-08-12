@@ -48,5 +48,5 @@
 - **其他**
   1. [離散化](http://htmlpreview.github.io?https://github.com/1am9trash/Algorithm/blob/main/%E5%85%B6%E4%BB%96/%E9%9B%A2%E6%95%A3%E5%8C%96/%E9%9B%A2%E6%95%A3%E5%8C%96.html)
      - [離散化](https://github.com/1am9trash/Algorithm/blob/main/其他/離散化/code/離散化.cpp)
-  2. [兩圓交點]((http://htmlpreview.github.io?https://github.com/1am9trash/Algorithm/tree/main/%E5%85%B6%E4%BB%96/%E5%85%A9%E5%9C%93%E4%BA%A4%E9%BB%9E.html))
-   - [兩圓交點](https://github.com/1am9trash/Algorithm/blob/main/%E5%85%B6%E4%BB%96/%E5%85%A9%E5%9C%93%E4%BA%A4%E9%BB%9E/code/%E5%85%A9%E5%9C%93%E4%BA%A4%E9%BB%9E.cpp)
+  2. [兩圓交點](http://htmlpreview.github.io?https://github.com/1am9trash/Algorithm/blob/main/%E5%85%B6%E4%BB%96/%E5%85%A9%E5%9C%93%E4%BA%A4%E9%BB%9E/%E5%85%A9%E5%9C%93%E4%BA%A4%E9%BB%9E.html)
+     - [兩圓交點](https://github.com/1am9trash/Algorithm/blob/main/%E5%85%B6%E4%BB%96/%E5%85%A9%E5%9C%93%E4%BA%A4%E9%BB%9E/code/%E5%85%A9%E5%9C%93%E4%BA%A4%E9%BB%9E.cpp)
