@@ -15,7 +15,8 @@
   | 2021/03/01 | 分治    | 三分搜尋 |
   | 2021/03/06 | 數論    | 質數篩法 |
   | 2021/03/08 | 數論    | 擴展歐幾里德與模逆元 |
-  | 2021/08/12 | 其他    | 兩圓交點 |
+  | 2021/08/12 | 幾何    | 兩圓交點 |
+  | 2021/09/19 | 幾何    | 判斷點在多邊形內 |
 
 - **每個算法標題為該算法的筆記，下方的連結為模板code**
 - **數據結構**
@@ -45,8 +46,12 @@
   1. [三分搜尋](http://htmlpreview.github.io?https://github.com/1am9trash/Algorithm/blob/main/%E5%88%86%E6%B2%BB/%E4%B8%89%E5%88%86/%E4%B8%89%E5%88%86.html)
      - [三分搜極值端點](https://github.com/1am9trash/Algorithm/blob/main/%E5%88%86%E6%B2%BB/%E4%B8%89%E5%88%86/code/%E4%B8%89%E5%88%86.cpp)
   
+- **幾何**
+  1. [兩圓交點](http://htmlpreview.github.io?https://github.com/1am9trash/Algorithm/blob/main/幾何/兩圓交點/兩圓交點.html)
+     - [兩圓交點](https://github.com/1am9trash/Algorithm/blob/main/幾何/兩圓交點/code/兩圓交點.cpp)
+  2. [判斷點在多邊形內](http://htmlpreview.github.io?https://github.com/1am9trash/Algorithm/blob/main/幾何/判斷點在多邊形內/判斷點在多邊形內.html)
+     - [判斷點在多邊形內](https://github.com/1am9trash/Algorithm/blob/main/幾何/判斷點在多邊形內/code/判斷點在多邊形內.cpp)
+
 - **其他**
   1. [離散化](http://htmlpreview.github.io?https://github.com/1am9trash/Algorithm/blob/main/%E5%85%B6%E4%BB%96/%E9%9B%A2%E6%95%A3%E5%8C%96/%E9%9B%A2%E6%95%A3%E5%8C%96.html)
      - [離散化](https://github.com/1am9trash/Algorithm/blob/main/其他/離散化/code/離散化.cpp)
-  2. [兩圓交點](http://htmlpreview.github.io?https://github.com/1am9trash/Algorithm/blob/main/%E5%85%B6%E4%BB%96/%E5%85%A9%E5%9C%93%E4%BA%A4%E9%BB%9E/%E5%85%A9%E5%9C%93%E4%BA%A4%E9%BB%9E.html)
-     - [兩圓交點](https://github.com/1am9trash/Algorithm/blob/main/%E5%85%B6%E4%BB%96/%E5%85%A9%E5%9C%93%E4%BA%A4%E9%BB%9E/code/%E5%85%A9%E5%9C%93%E4%BA%A4%E9%BB%9E.cpp)
